@@ -17,5 +17,5 @@
 -   🌻 In love with **coding** and **design** 
 
   ## Get in touch 
-
+ - https://www.linkedin.com/in/aleksei-motin-160b78199/ (Linkedin)
 
