@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Aleksei! 👋🏼
 
+### I'm a future web developer
 <!--
 **Lexadiaz120/Lexadiaz120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   👩‍💻 **Coding Bootcamp Student** @Ironhack
+-   💻 Technology enthusiast
+-   📚 Currently learning/using: 
+    -   HTML
+    -   CSS
+    -   Javascript
+    -   React
+    -   Redux
+    -   Node.js
+    -   Figma 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🌻 In love with **coding** and **design** 
+
+  ## Get in touch 
+
+
