@@ -1,21 +1,29 @@
 ## Hi there, I'm Aleksei! 👋🏼
 
-### I'm a future web developer
+### I'm a  web developer
 
 -   👩‍💻 **Coding Bootcamp Student** @Ironhack
 -   💻 Technology enthusiast
--   📚 Currently learning/using: 
+-   📚 Currently  using this stack of technologies to develop web pages: 
     -   HTML
-    -   CSS
+    -   CSS 
+    -   Next.js
+    -   API REST
+    -   React Hooks
+    -   Postman
     -   Javascript
     -   React
     -   Redux
     -   Node.js
     -   Figma 
+-   🌻 In love with **coding** and **design**  
+
+I develop  E-commerce web pages using React, Mongo.....   
 
 
--   🌻 In love with **coding** and **design** 
+
 
   ## Get in touch 
- - https://www.linkedin.com/in/aleksei-motin-160b78199/ (Linkedin)
+ - https://www.linkedin.com/in/aleksei-motin-160b78199/ (Linkedin) 
+ - daura38@gmail.com (Email)
 
