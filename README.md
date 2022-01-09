@@ -2,7 +2,7 @@
 
 ### I'm a  web developer
 
--   👩‍💻 **Coding Bootcamp Student** @Ironhack
+-   👩‍💻 **Full Stack Web Develoeper** 
 -   💻 Technology enthusiast
 -   📚 Currently  using this stack of technologies to develop web pages: 
     -   HTML
