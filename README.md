@@ -13,12 +13,14 @@
     -   Postman
     -   Javascript
     -   React
-    -   Redux
+    -   Redux 
+    -   MYSQL 
+    -   ANGULAR
     -   Node.js
     -   Figma 
 -   🌻 In love with **coding** and **design**  
 
-I develop  E-commerce web pages using React, Mongo.....   
+I develop  E-commerce web pages using React, Mongo , Mysql......
 
 
 
