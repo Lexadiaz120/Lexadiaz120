@@ -7,3 +7,15 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working at <img src="fa-crown.svg" width="50" height="50"> **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
