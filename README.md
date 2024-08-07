@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working at   <img src="https://th.bing.com/th/id/OIP.PGUQtDTcdX0wMgnQcBO78wAAAA?rs=1&pid=ImgDetMain" width="70" height="70" alt="Softtek">
+ 🔭 I’m currently working at   <img src="https://th.bing.com/th/id/OIP.PGUQtDTcdX0wMgnQcBO78wAAAA?rs=1&pid=ImgDetMain" width="40" height="40" alt="Softtek">
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
