@@ -6,11 +6,9 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<br/>
-
 <div align="center">
  
- 🔭 I’m currently working at <br/> <img src="https://th.bing.com/th/id/OIP.PGUQtDTcdX0wMgnQcBO78wAAAA?rs=1&pid=ImgDetMain" width="50" height="50" alt="Softtek">
+ 🔭 I’m currently working at   <img src="https://th.bing.com/th/id/OIP.PGUQtDTcdX0wMgnQcBO78wAAAA?rs=1&pid=ImgDetMain" width="50" height="50" alt="Softtek">
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
